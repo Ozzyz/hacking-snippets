@@ -25,7 +25,9 @@ Useful snippets and links for hacking competitions. Work in progress
 
 ### NMAP
 It is often useful to do two nmap scans - one for low hanging fruit (quick), and one that can run in the background and scan all ports.
+
 Quick: `nmap -sC -sV -oA quick.nmap <target ip>`
+
 Long: `nmap -sC -sV -oA -p- full.nmap <target ip>`
 
 ### Dir scans
