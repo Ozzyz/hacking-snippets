@@ -36,6 +36,7 @@ Long: `nmap -sC -sV -oA -p- full.nmap <target ip>`
 
 **VHOST scan**
 
+### Nikto
 
 ## Exploitation
 
